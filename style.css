@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(150, 123, 103);
+}
+input {
+    display: block;
+    width: 28%;
+    margin: 0px 0px 5px 0px;
+}
+p {
+    color: rgb(150, 150, 150);
+}
+button {
+    margin: 0px 0px 5px 0px;
+}
